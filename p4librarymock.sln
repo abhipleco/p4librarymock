@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p4library", "p4library\p4library.csproj", "{32BC3C58-851B-47B3-B991-78E9BF3FF4B8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p4librarymock", "p4librarymock\p4librarymock.csproj", "{876F964A-3072-4EFD-8619-5C12CEE47F12}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{32BC3C58-851B-47B3-B991-78E9BF3FF4B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{32BC3C58-851B-47B3-B991-78E9BF3FF4B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{32BC3C58-851B-47B3-B991-78E9BF3FF4B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{32BC3C58-851B-47B3-B991-78E9BF3FF4B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{876F964A-3072-4EFD-8619-5C12CEE47F12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{876F964A-3072-4EFD-8619-5C12CEE47F12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{876F964A-3072-4EFD-8619-5C12CEE47F12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{876F964A-3072-4EFD-8619-5C12CEE47F12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D7D37C36-8217-4EE7-BE4C-EB6779B6B421}
+		SolutionGuid = {BF7C0F14-ED95-400D-8ADB-FEC0A9E04764}
 	EndGlobalSection
 EndGlobal
